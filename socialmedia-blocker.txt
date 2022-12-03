@@ -1,4 +1,8 @@
 facebook.com
+messenger.com
+ph.messenger.com
+m.messenger.com
+connect.messenger.com
 fbcdn.com
 fbsbx.com
 graph.facebook.com
