@@ -48,6 +48,8 @@ ttvnw.net
 twttr.com
 t.co
 twimg.com
+www.wechat.com
+api.wechat.com
 whatsapp-cdn-shv-01-atl1.fbcdn.net
 bytedance.com
 byteoversea.com
